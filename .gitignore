@@ -10,6 +10,7 @@ venv/
 vectors/
 db/
 outputs/
+data/
 
 # === OS Files ===
 .DS_Store
