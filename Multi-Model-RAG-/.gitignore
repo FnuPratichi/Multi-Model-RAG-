@@ -1,0 +1,16 @@
+# === Python ===
+__pycache__/
+*.pyc
+
+# === Virtual Environment ===
+venv/
+.env
+
+# === RAG Project Data ===
+vectors/
+db/
+outputs/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
