@@ -11,7 +11,7 @@ vectors/
 db/
 outputs/
 data/
-
+extracted_images/
 # === OS Files ===
 .DS_Store
 Thumbs.db
